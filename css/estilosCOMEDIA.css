@@ -111,11 +111,12 @@ li:hover ul {
 .nano{
   transition: transform 0.7s ;
   border: solid 2px black;
-
+  width: 350px;
 }
 
 .nano:hover{
   transform: scale(1.2);
+  width: 350px;
 }
 
 .nano2{

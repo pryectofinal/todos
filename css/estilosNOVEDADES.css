@@ -116,6 +116,7 @@
   
   .nano:hover{
     transform: scale(1.2);
+    width: 350px;
   }
   .nano2{
     display: flex;

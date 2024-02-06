@@ -4,6 +4,7 @@
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    height: ;
 }
 
 .desplegables {
@@ -114,11 +115,13 @@ ul {
     transition: transform 0.7s ;
     border: solid 2px black;
     height: auto;
-    width: 200px;
+    width: 400px;
+    align-items: center;
 }
 
 .nano:hover{
     transform: scale(1.2);
+    width: 350px;
 }
 
 .nano2{

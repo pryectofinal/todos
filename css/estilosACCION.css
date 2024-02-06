@@ -111,6 +111,7 @@
 
   .nano{
     transition: transform 0.7s ;
+    width: 350px;
 }
 
 .nano:hover{

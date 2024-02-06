@@ -1,6 +1,6 @@
 
 .cabecera {
-  color: white;
+  color: black;
   font-size: 50px;
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
@@ -111,6 +111,8 @@ li:hover ul {
 
 .nano{
   transition: transform 0.7s ;
+  width: 350px;
+  align-items: center;
 }
 
 .nano:hover{
